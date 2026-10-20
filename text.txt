@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-来自master分支的文字
-=======
-来自branch2的文字
->>>>>>> branch2
+I alter the text from master.
